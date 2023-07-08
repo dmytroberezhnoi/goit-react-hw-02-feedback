@@ -1,0 +1,16 @@
+.section {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 10px;
+  width: 350px;
+  border: solid rgb(39, 36, 39);
+  border-radius: 7px;
+  overflow: hidden;
+  background-color: blanchedalmond;
+}
+
+.title {
+  margin-top: 0;
+  text-align: center;
+}
